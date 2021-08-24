@@ -9,6 +9,8 @@ files = glob.glob("data/tmp/*.json")
 
 prefix = "https://nakamura196.github.io/E34"
 
+curations = []
+
 for file in files:
 
     with open(file) as f:
@@ -37,6 +39,8 @@ for file in files:
     members = []
     members2 = []
 
+    chars = {}
+
     for image in sorted(map):
 
         if image not in images:
@@ -56,6 +60,11 @@ for file in files:
 
             if char == "null":
                 continue
+
+            if char not in chars:
+                chars[char] = 0
+
+            chars[char] += 1
 
             id = item["id"]
 
@@ -90,13 +99,18 @@ for file in files:
 
             member2 = copy.deepcopy(member) #変更行
 
-            del member2["metadata"][0]["value"][0]["resource"]["marker"]
+            member2["metadata"][0]["value"][0]["resource"]["marker"] = {
+                "border-width": 1,
+                "border-color": "#e41a1c"
+            }
 
             members.append(member)
             members2.append(member2)
 
     if len(members) == 0:
         continue
+
+    label = manifest["label"]
     
     curation = {
         "@context": [
@@ -112,7 +126,7 @@ for file in files:
                 "within": {
                     "@id": manifest["@id"],
                     "@type": "sc:Manifest",
-                    "label": manifest["label"]
+                    "label": label
                 },
                 "@id": manifest["@id"]
             }
@@ -143,5 +157,20 @@ for file in files:
         json.dump(curation2, outfile, ensure_ascii=False,
                 indent=4, sort_keys=True, separators=(',', ': '))
 
+    ####
 
+    count = 0
+    for key in chars:
+        count += chars[key]
+
+    curations.append({
+        "total" : len(chars.keys()),
+        "count" : count,
+        "label" : label,
+        "id" : cn
+    })
+
+with open("data/curations.json", 'w') as outfile:
+    json.dump(curations, outfile, ensure_ascii=False,
+            indent=4, sort_keys=True, separators=(',', ': '))
     
