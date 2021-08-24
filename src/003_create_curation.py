@@ -164,13 +164,16 @@ for file in files:
         count += chars[key]
 
     curations.append({
-        "total" : len(chars.keys()),
-        "count" : count,
-        "label" : label,
+        "size" : len(chars.keys()),
+        "total" : count,
+        "label" : label.split("@")[0],
         "id" : cn
     })
 
-with open("data/curations.json", 'w') as outfile:
+path2 = "data/curations.json"
+path2 = "../../outougata/static/data/curations.json"
+
+with open(path2, 'w') as outfile:
     json.dump(curations, outfile, ensure_ascii=False,
             indent=4, sort_keys=True, separators=(',', ': '))
     
