@@ -1,0 +1,100 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/E34/curation/0014-1-/character.json",
+    "@type": "cr:Curation",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/E34/iiif/0014-1-/manifest.json",
+            "@type": "sc:Range",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/0014-1-/canvas/p1#xywh=1082,495,93,82",
+                    "@type": "sc:Canvas",
+                    "label": "34260461",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/0014-1-/canvas/p1#xywh=1082,495,93,82#34260461",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/0014-1-/canvas/p1#xywh=1082,495,93,82",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34260461\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/0014-1-/canvas/p1#xywh=1082,495,93,82",
+                    "@type": "sc:Canvas",
+                    "label": "34260462",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/0014-1-/canvas/p1#xywh=1082,495,93,82#34260462",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/0014-1-/canvas/p1#xywh=1082,495,93,82",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34260462\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/0014-1-/canvas/p1#xywh=1068,508,112,82",
+                    "@type": "sc:Canvas",
+                    "label": "34288232",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/0014-1-/canvas/p1#xywh=1068,508,112,82#34288232",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/0014-1-/canvas/p1#xywh=1068,508,112,82",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34288232\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/E34/iiif/0014-1-/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "三宝院伝法潅頂私記　内道場@ja"
+            }
+        }
+    ],
+    "viewingHint": "annotation"
+}

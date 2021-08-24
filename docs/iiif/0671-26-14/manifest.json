@@ -1,0 +1,94 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/E34/iiif/0671-26-14/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "富安護義氏旧蔵文書（矢島文書）@ja",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/common/images/logo.jpg",
+    "metadata": [
+        {
+            "label": "call_number",
+            "value": "0671-26-14@ja"
+        },
+        {
+            "label": "date",
+            "value": "55550110150"
+        },
+        {
+            "label": "date_str",
+            "value": "（年未詳）霜月１５日"
+        },
+        {
+            "label": "division",
+            "value": "XX@ja"
+        },
+        {
+            "label": "document",
+            "value": "黒田忠之書状@ja"
+        },
+        {
+            "label": "occupation",
+            "value": "2@ja"
+        },
+        {
+            "label": "send",
+            "value": "松筑前守忠之K@ja"
+        },
+        {
+            "label": "to",
+            "value": "矢嶋主水正殿@ja"
+        },
+        {
+            "label": "value",
+            "value": "富安護義氏旧蔵文書（矢島文書）@ja"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/E34/iiif/0671-26-14/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/0671-26-14/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 4043,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/E34/iiif/0671-26-14/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/E34/iiif/0671-26-14/canvas/p1",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/000/0671/26/14/00000020.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4043,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/000/0671/26/14/00000020.tif",
+                                    "height": 4043,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "width": 5255
+                                },
+                                "width": 5255
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/000/0671/26/14/00000020.tif/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/000/0671/26/14/00000020.tif",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 5255
+                }
+            ]
+        }
+    ],
+    "viewingHint": "non-paged",
+    "within": "https://wwwap.hi.u-tokyo.ac.jp/ships/"
+}

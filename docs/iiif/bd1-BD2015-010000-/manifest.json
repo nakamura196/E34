@@ -1,0 +1,56 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/E34/iiif/bd1-BD2015-010000-/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "円覚寺文書@ja",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/common/images/logo.jpg",
+    "metadata": [
+        {
+            "label": "call_number",
+            "value": "bd1-BD2015-010000-@ja"
+        },
+        {
+            "label": "date",
+            "value": "12290110260"
+        },
+        {
+            "label": "date_str",
+            "value": "寛喜元年11月26日"
+        },
+        {
+            "label": "division",
+            "value": "XX@ja"
+        },
+        {
+            "label": "document",
+            "value": "藤原頼経袖判下文@ja"
+        },
+        {
+            "label": "occupation",
+            "value": "2@ja"
+        },
+        {
+            "label": "send",
+            "value": ""
+        },
+        {
+            "label": "to",
+            "value": ""
+        },
+        {
+            "label": "value",
+            "value": "円覚寺文書@ja"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/E34/iiif/bd1-BD2015-010000-/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingHint": "non-paged",
+    "within": "https://wwwap.hi.u-tokyo.ac.jp/ships/"
+}

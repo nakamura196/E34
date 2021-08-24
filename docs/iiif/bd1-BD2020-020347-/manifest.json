@@ -1,0 +1,56 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/E34/iiif/bd1-BD2020-020347-/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "東寺百合文書　せ函南朝文書@ja",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/common/images/logo.jpg",
+    "metadata": [
+        {
+            "label": "call_number",
+            "value": "bd1-BD2020-020347-@ja"
+        },
+        {
+            "label": "date",
+            "value": "13150110240"
+        },
+        {
+            "label": "date_str",
+            "value": "正和4年11月24日"
+        },
+        {
+            "label": "division",
+            "value": "XX@ja"
+        },
+        {
+            "label": "document",
+            "value": "後宇多上皇院宣　封紙ウハ書@ja"
+        },
+        {
+            "label": "occupation",
+            "value": "1@ja"
+        },
+        {
+            "label": "send",
+            "value": "宣房@ja"
+        },
+        {
+            "label": "to",
+            "value": "大納言法印御房（道我）@ja"
+        },
+        {
+            "label": "value",
+            "value": "東寺百合文書　せ函南朝文書@ja"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/E34/iiif/bd1-BD2020-020347-/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingHint": "non-paged",
+    "within": "https://wwwap.hi.u-tokyo.ac.jp/ships/"
+}

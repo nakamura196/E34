@@ -1,0 +1,56 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/E34/iiif/6800-213-/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "歴代亀鑑　（上・下）@ja",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/common/images/logo.jpg",
+    "metadata": [
+        {
+            "label": "call_number",
+            "value": "6800-213-@ja"
+        },
+        {
+            "label": "date",
+            "value": "11850080170"
+        },
+        {
+            "label": "date_str",
+            "value": "元暦2年8月17日"
+        },
+        {
+            "label": "division",
+            "value": "XX@ja"
+        },
+        {
+            "label": "document",
+            "value": "源頼朝袖判下文@ja"
+        },
+        {
+            "label": "occupation",
+            "value": ""
+        },
+        {
+            "label": "send",
+            "value": ""
+        },
+        {
+            "label": "to",
+            "value": ""
+        },
+        {
+            "label": "value",
+            "value": "歴代亀鑑　（上・下）@ja"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/E34/iiif/6800-213-/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingHint": "non-paged",
+    "within": "https://wwwap.hi.u-tokyo.ac.jp/ships/"
+}

@@ -1,0 +1,56 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/E34/iiif/micro4-micro-0550-/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "武家手鑑@ja",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/common/images/logo.jpg",
+    "metadata": [
+        {
+            "label": "call_number",
+            "value": "micro4-micro-0550-@ja"
+        },
+        {
+            "label": "date",
+            "value": "55550060290"
+        },
+        {
+            "label": "date_str",
+            "value": "（年未詳）６月２９日"
+        },
+        {
+            "label": "division",
+            "value": "XX@ja"
+        },
+        {
+            "label": "document",
+            "value": "明智光秀書状@ja"
+        },
+        {
+            "label": "occupation",
+            "value": "2,6@ja"
+        },
+        {
+            "label": "send",
+            "value": ""
+        },
+        {
+            "label": "to",
+            "value": ""
+        },
+        {
+            "label": "value",
+            "value": "武家手鑑@ja"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/E34/iiif/micro4-micro-0550-/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingHint": "non-paged",
+    "within": "https://wwwap.hi.u-tokyo.ac.jp/ships/"
+}

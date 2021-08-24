@@ -1,0 +1,1530 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/E34/curation/_000ki_01-41-/character.json",
+    "@type": "cr:Curation",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/manifest.json",
+            "@type": "sc:Range",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4164,2496,385,324",
+                    "@type": "sc:Canvas",
+                    "label": "34052590",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4164,2496,385,324#34052590",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4164,2496,385,324",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "地<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/地/34052590\">U+5730</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "地"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4219,2851,367,316",
+                    "@type": "sc:Canvas",
+                    "label": "34052592",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4219,2851,367,316#34052592",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4219,2851,367,316",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "頭<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/頭/34052592\">U+982D</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "頭"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3467,1718,407,371",
+                    "@type": "sc:Canvas",
+                    "label": "34052603",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3467,1718,407,371#34052603",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3467,1718,407,371",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "可<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/可/34052603\">U+53EF</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "可"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3504,2099,437,454",
+                    "@type": "sc:Canvas",
+                    "label": "34052604",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3504,2099,437,454#34052604",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3504,2099,437,454",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "随<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/随/34052604\">U+968F</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "随"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3488,2507,316,475",
+                    "@type": "sc:Canvas",
+                    "label": "34052606",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3488,2507,316,475#34052606",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3488,2507,316,475",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "重<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/重/34052606\">U+91CD</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "重"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3510,3007,283,330",
+                    "@type": "sc:Canvas",
+                    "label": "34052607",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3510,3007,283,330#34052607",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3510,3007,283,330",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "御<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/御/34052607\">U+5FA1</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "御"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4268,236,336,382",
+                    "@type": "sc:Canvas",
+                    "label": "34052579",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4268,236,336,382#34052579",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4268,236,336,382",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "相<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/相/34052579\">U+76F8</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "相"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4226,631,446,461",
+                    "@type": "sc:Canvas",
+                    "label": "34052581",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4226,631,446,461#34052581",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4226,631,446,461",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "催<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/催/34052581\">U+50AC</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "催"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4189,1121,405,522",
+                    "@type": "sc:Canvas",
+                    "label": "34052583",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4189,1121,405,522#34052583",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4189,1121,405,522",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "美<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/美/34052583\">U+7F8E</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "美"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4201,1525,423,458",
+                    "@type": "sc:Canvas",
+                    "label": "34052585",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4201,1525,423,458#34052585",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4201,1525,423,458",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "濃<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/濃/34052585\">U+6FC3</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "濃"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4164,2002,456,507",
+                    "@type": "sc:Canvas",
+                    "label": "34052587",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4164,2002,456,507#34052587",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4164,2002,456,507",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "国<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/国/34052587\">U+56FD</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "国"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=5027,230,196,354",
+                    "@type": "sc:Canvas",
+                    "label": "34052556",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=5027,230,196,354#34052556",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=5027,230,196,354",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "可<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/可/34052556\">U+53EF</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "可"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4877,582,460,465",
+                    "@type": "sc:Canvas",
+                    "label": "34052560",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4877,582,460,465#34052560",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4877,582,460,465",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "被<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/被/34052560\">U+88AB</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "被"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4902,1438,425,494",
+                    "@type": "sc:Canvas",
+                    "label": "34052565",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4902,1438,425,494#34052565",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4902,1438,425,494",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "関<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/関/34052565\">U+95A2</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "関"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4930,1896,340,435",
+                    "@type": "sc:Canvas",
+                    "label": "34052568",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4930,1896,340,435#34052568",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4930,1896,340,435",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "東<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/東/34052568\">U+6771</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "東"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4970,2358,223,652",
+                    "@type": "sc:Canvas",
+                    "label": "34052570",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4970,2358,223,652#34052570",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4970,2358,223,652",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "事<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/事/34052570\">U+4E8B</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "事"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4898,3043,275,487",
+                    "@type": "sc:Canvas",
+                    "label": "34052572",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4898,3043,275,487#34052572",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4898,3043,275,487",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "有<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/有/34052572\">U+6709</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "有"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4939,3540,263,305",
+                    "@type": "sc:Canvas",
+                    "label": "34052574",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4939,3540,263,305#34052574",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4939,3540,263,305",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "之<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/之/34052574\">U+4E4B</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "之"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4195,3124,303,346",
+                    "@type": "sc:Canvas",
+                    "label": "34052594",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4195,3124,303,346#34052594",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4195,3124,303,346",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "御<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/御/34052594\">U+5FA1</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "御"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4135,3400,433,365",
+                    "@type": "sc:Canvas",
+                    "label": "34052596",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4135,3400,433,365#34052596",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4135,3400,433,365",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "家<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/家/34052596\">U+5BB6</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "家"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4146,3742,507,367",
+                    "@type": "sc:Canvas",
+                    "label": "34052599",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4146,3742,507,367#34052599",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4146,3742,507,367",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "人<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/人/34052599\">U+4EBA</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "人"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3503,287,458,409",
+                    "@type": "sc:Canvas",
+                    "label": "34052600",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3503,287,458,409#34052600",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3503,287,458,409",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "致<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/致/34052600\">U+81F4</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "致"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3554,694,273,440",
+                    "@type": "sc:Canvas",
+                    "label": "34052601",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3554,694,273,440#34052601",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3554,694,273,440",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "用<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/用/34052601\">U+7528</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "用"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3518,1118,390,537",
+                    "@type": "sc:Canvas",
+                    "label": "34052602",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3518,1118,390,537#34052602",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3518,1118,390,537",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "意<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/意/34052602\">U+610F</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "意"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4957,960,269,454",
+                    "@type": "sc:Canvas",
+                    "label": "34052563",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4957,960,269,454#34052563",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4957,960,269,454",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "遣<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/遣/34052563\">U+9063</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "遣"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4889,3838,350,324",
+                    "@type": "sc:Canvas",
+                    "label": "34052576",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4889,3838,350,324#34052576",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4889,3838,350,324",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "早<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/早/34052576\">U+65E9</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "早"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2788,1029,367,1420",
+                    "@type": "sc:Canvas",
+                    "label": "34052618",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2788,1029,367,1420#34052618",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2788,1029,367,1420",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "件<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/件/34052618\">U+4EF6</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "件"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3523,697,380,961",
+                    "@type": "sc:Canvas",
+                    "label": "34052658",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3523,697,380,961#34052658",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3523,697,380,961",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34052658\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3438,3249,339,659",
+                    "@type": "sc:Canvas",
+                    "label": "34052660",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3438,3249,339,659#34052660",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3438,3249,339,659",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34052660\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2023,484,382,458",
+                    "@type": "sc:Canvas",
+                    "label": "34052621",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2023,484,382,458#34052621",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2023,484,382,458",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "建<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/建/34052621\">U+5EFA</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "建"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2060,945,310,439",
+                    "@type": "sc:Canvas",
+                    "label": "34052624",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2060,945,310,439#34052624",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2060,945,310,439",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "武<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/武/34052624\">U+6B66</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "武"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2136,2217,189,345",
+                    "@type": "sc:Canvas",
+                    "label": "34052632",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2136,2217,189,345#34052632",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2136,2217,189,345",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "月<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/月/34052632\">U+6708</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "月"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2105,2542,172,214",
+                    "@type": "sc:Canvas",
+                    "label": "34052634",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2105,2542,172,214#34052634",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2105,2542,172,214",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "十<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/十/34052634\">U+5341</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "十"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2010,2728,376,203",
+                    "@type": "sc:Canvas",
+                    "label": "34052636",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2010,2728,376,203#34052636",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2010,2728,376,203",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "八<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/八/34052636\">U+516B</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "八"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2179,2943,151,180",
+                    "@type": "sc:Canvas",
+                    "label": "34052637",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2179,2943,151,180#34052637",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2179,2943,151,180",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "日<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/日/34052637\">U+65E5</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "日"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=958,863,309,293",
+                    "@type": "sc:Canvas",
+                    "label": "34052639",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=958,863,309,293#34052639",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=958,863,309,293",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "土<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/土/34052639\">U+571F</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "土"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=891,1814,439,375",
+                    "@type": "sc:Canvas",
+                    "label": "34052646",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=891,1814,439,375#34052646",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=891,1814,439,375",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "近<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/近/34052646\">U+8FD1</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "近"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=948,2169,401,525",
+                    "@type": "sc:Canvas",
+                    "label": "34052647",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=948,2169,401,525#34052647",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=948,2169,401,525",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "蔵<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/蔵/34052647\">U+8535</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "蔵"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=837,2620,636,399",
+                    "@type": "sc:Canvas",
+                    "label": "34052649",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=837,2620,636,399#34052649",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=837,2620,636,399",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "人<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/人/34052649\">U+4EBA</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "人"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=937,2969,589,468",
+                    "@type": "sc:Canvas",
+                    "label": "34052650",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=937,2969,589,468#34052650",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=937,2969,589,468",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "殿<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/殿/34052650\">U+6BBF</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "殿"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4877,1433,430,912",
+                    "@type": "sc:Canvas",
+                    "label": "34052651",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4877,1433,430,912#34052651",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4877,1433,430,912",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34052651\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4171,1120,463,879",
+                    "@type": "sc:Canvas",
+                    "label": "34052652",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4171,1120,463,879#34052652",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4171,1120,463,879",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34052652\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4157,2502,430,672",
+                    "@type": "sc:Canvas",
+                    "label": "34052653",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4157,2502,430,672#34052653",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4157,2502,430,672",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34052653\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4127,3130,521,972",
+                    "@type": "sc:Canvas",
+                    "label": "34052655",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4127,3130,521,972#34052655",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=4127,3130,521,972",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34052655\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2776,669,395,1767",
+                    "@type": "sc:Canvas",
+                    "label": "34052664",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2776,669,395,1767#34052664",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2776,669,395,1767",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34052664\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2015,480,389,889",
+                    "@type": "sc:Canvas",
+                    "label": "34052666",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2015,480,389,889#34052666",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2015,480,389,889",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34052666\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=910,865,436,664",
+                    "@type": "sc:Canvas",
+                    "label": "34052668",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=910,865,436,664#34052668",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=910,865,436,664",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34052668\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=858,2173,598,828",
+                    "@type": "sc:Canvas",
+                    "label": "34052670",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=858,2173,598,828#34052670",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=858,2173,598,828",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "null<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/null/34052670\">U+</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "null"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3452,3258,309,340",
+                    "@type": "sc:Canvas",
+                    "label": "34052609",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3452,3258,309,340#34052609",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3452,3258,309,340",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "左<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/左/34052609\">U+5DE6</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "左"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3447,3569,320,348",
+                    "@type": "sc:Canvas",
+                    "label": "34052611",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3447,3569,320,348#34052611",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3447,3569,320,348",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "右<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/右/34052611\">U+53F3</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "右"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3619,3834,187,264",
+                    "@type": "sc:Canvas",
+                    "label": "34052613",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3619,3834,187,264#34052613",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=3619,3834,187,264",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "之<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/之/34052613\">U+4E4B</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "之"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2720,287,469,363",
+                    "@type": "sc:Canvas",
+                    "label": "34052614",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2720,287,469,363#34052614",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2720,287,469,363",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "状<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/状/34052614\">U+72B6</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "状"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2812,669,323,260",
+                    "@type": "sc:Canvas",
+                    "label": "34052616",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2812,669,323,260#34052616",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2812,669,323,260",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "如<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/如/34052616\">U+5982</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "如"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2105,1375,215,223",
+                    "@type": "sc:Canvas",
+                    "label": "34052626",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2105,1375,215,223#34052626",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2105,1375,215,223",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "三<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/三/34052626\">U+4E09</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "三"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2117,1589,213,420",
+                    "@type": "sc:Canvas",
+                    "label": "34052628",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2117,1589,213,420#34052628",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2117,1589,213,420",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "年<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/年/34052628\">U+5E74</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "年"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2099,1984,228,266",
+                    "@type": "sc:Canvas",
+                    "label": "34052629",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2099,1984,228,266#34052629",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=2099,1984,228,266",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "十<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/十/34052629\">U+5341</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "十"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=917,1152,429,385",
+                    "@type": "sc:Canvas",
+                    "label": "34052642",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=917,1152,429,385#34052642",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=917,1152,429,385",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "岐<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/岐/34052642\">U+5C90</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "岐"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=998,1479,255,346",
+                    "@type": "sc:Canvas",
+                    "label": "34052644",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=998,1479,255,346#34052644",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/canvas/p1#xywh=998,1479,255,346",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "左<br/><a href=\"https://hi-ut.github.io/kuzushiji/item/左/34052644\">U+5DE6</a>",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "text": "左"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/E34/iiif/_000ki_01-41-/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "足利直義御教書@ja"
+            }
+        }
+    ],
+    "viewingHint": "annotation"
+}

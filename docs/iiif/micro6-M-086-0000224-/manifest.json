@@ -1,0 +1,56 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/E34/iiif/micro6-M-086-0000224-/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "広橋家史料@ja",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/common/images/logo.jpg",
+    "metadata": [
+        {
+            "label": "call_number",
+            "value": "micro6-M-086-0000224-@ja"
+        },
+        {
+            "label": "date",
+            "value": "55550040200"
+        },
+        {
+            "label": "date_str",
+            "value": "(年未詳）四月廿日"
+        },
+        {
+            "label": "division",
+            "value": "XX@ja"
+        },
+        {
+            "label": "document",
+            "value": "織田信長朱印状@ja"
+        },
+        {
+            "label": "occupation",
+            "value": "2@ja"
+        },
+        {
+            "label": "send",
+            "value": "信長Ｉ@ja"
+        },
+        {
+            "label": "to",
+            "value": "荻野惣右衛門尉殿@ja"
+        },
+        {
+            "label": "value",
+            "value": "広橋家史料@ja"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/E34/iiif/micro6-M-086-0000224-/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingHint": "non-paged",
+    "within": "https://wwwap.hi.u-tokyo.ac.jp/ships/"
+}

@@ -1,0 +1,56 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/E34/iiif/3071.61-51-/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "分部文書@ja",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/common/images/logo.jpg",
+    "metadata": [
+        {
+            "label": "call_number",
+            "value": "3071.61-51-@ja"
+        },
+        {
+            "label": "date",
+            "value": "15590110131"
+        },
+        {
+            "label": "date_str",
+            "value": "永禄２年カ１１月１３日"
+        },
+        {
+            "label": "division",
+            "value": "XX@ja"
+        },
+        {
+            "label": "document",
+            "value": "織田信長書状@ja"
+        },
+        {
+            "label": "occupation",
+            "value": ""
+        },
+        {
+            "label": "send",
+            "value": "信長Ｋ@ja"
+        },
+        {
+            "label": "to",
+            "value": "分部左京亮殿御宿所@ja"
+        },
+        {
+            "label": "value",
+            "value": "分部文書@ja"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/E34/iiif/3071.61-51-/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingHint": "non-paged",
+    "within": "https://wwwap.hi.u-tokyo.ac.jp/ships/"
+}
