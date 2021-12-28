@@ -11,7 +11,12 @@ prefix = "https://nakamura196.github.io/E34"
 
 curations = []
 
-for file in files:
+for i in range(len(files)):
+    
+    # for file in files:
+
+    file = files[i]
+    print(i+1, len(files), file)
 
     with open(file) as f:
         map = json.load(f)
@@ -20,7 +25,7 @@ for file in files:
 
     cn = os.path.splitext(base)[0]
 
-    print(cn)
+    # print(cn)
 
     manifest_path = "../docs/iiif/"+cn+"/manifest.json"
 
@@ -34,7 +39,7 @@ for file in files:
     for canvas in canvases:
         images[canvas["thumbnail"]["service"]["@id"]] = canvas["@id"]
 
-    print(images)
+    # print(images)
 
     members = []
     members2 = []
@@ -48,7 +53,7 @@ for file in files:
 
         canvas = images[image]
 
-        print(canvas)
+        # print(canvas)
 
         for item in map[image]:
 
@@ -91,10 +96,51 @@ for file in files:
                         }
                     ],
                     "label": "Annotation"
+                    },
+                    {
+                        "label": "char",
+                        "value" : char
+                    },
+                    {
+                        "label": "call_number",
+                        "value" : item["source"]["call_number"].split("@")[0]
+                    },
+                    {
+                        "label": "date",
+                        "value" : item["source"]["date"].split("@")[0]
+                    },
+                    {
+                        "label": "date_str",
+                        "value" : item["source"]["date_str"].split("@")[0]
+                    },
+                    {
+                        "label": "division",
+                        "value" : item["source"]["division"].split("@")[0]
+                    },
+                    {
+                        "label": "document",
+                        "value" : item["source"]["document"].split("@")[0]
+                    },
+                    {
+                        "label": "occupation",
+                        "value" : item["source"]["occupation"].split("@")[0]
+                    },
+                    {
+                        "label": "send",
+                        "value" : item["source"]["send"].split("@")[0]
+                    },
+                    {
+                        "label": "to",
+                        "value" : item["source"]["to"].split("@")[0]
+                    },
+                    {
+                        "label": "value",
+                        "value" : item["source"]["value"].split("@")[0]
                     }
                 ],
                 "@type": "sc:Canvas",
-                "@id": member_id
+                "@id": member_id,
+                "thumbnail": item["thumbnail_url"]
             }
 
             member2 = copy.deepcopy(member) #変更行
@@ -163,11 +209,38 @@ for file in files:
     for key in chars:
         count += chars[key]
 
+    canvases = []
+
+    aaa = {}
+
+    for member in members:
+        canvas = member["@id"].split("#xywh=")[0]
+        if canvas not in canvases:
+            canvases.append(canvas)
+
+        metadata = member["metadata"]
+
+        for m in metadata:
+            if m["label"] != "Annotation":
+                label2 = m["label"]
+                value = m["value"]
+
+                if label2 not in aaa:
+                    aaa[label2] = {}
+
+                if value not in aaa[label2]:
+                    aaa[label2][value] = 0
+
+                aaa[label2][value] += 1
+
+    print(aaa)
+
     curations.append({
         "size" : len(chars.keys()),
         "total" : count,
         "label" : label.split("@")[0],
-        "id" : cn
+        "id" : cn,
+        "canvas_size" : len(canvases)
     })
 
 path2 = "data/curations.json"
